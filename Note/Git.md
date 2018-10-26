@@ -1,3 +1,5 @@
+[TOC]
+
 # 使用git
 
 ## 下载git
@@ -48,3 +50,7 @@ Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
 Hi xxx! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+
+## Mac配置SSH-Key
+
+步骤基本一致

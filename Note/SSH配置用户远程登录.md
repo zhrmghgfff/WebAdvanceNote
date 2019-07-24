@@ -83,7 +83,7 @@ IdentityFile ~/.ssh/xxx
 ssh user  #user是你config配置的Host名字
 ```
 
-##PS错误
+## PS错误
 
 ```
 Received disconnect from *.*.*.* port 22:2: Too many authentication failures

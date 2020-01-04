@@ -54,3 +54,7 @@ Hi xxx! You've successfully authenticated, but GitHub does not provide shell acc
 ## Mac配置SSH-Key
 
 步骤基本一致
+
+## 命令
+
+[命令行命令](https://www.jianshu.com/p/d220c88bb516)
